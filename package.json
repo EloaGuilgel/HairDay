@@ -1,7 +1,7 @@
 {
   "name": "hairday",
   "description": "Aplicação Web para agendamento de corte de cabelo.",
-  "author": "Rodrigo Gonçalves",
+  "author": "Eloá Guilgel",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve",
