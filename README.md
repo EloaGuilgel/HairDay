@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  🔗 <strong>Acesse o projeto:</strong> <a href="https://eloaguilgel.github.io/HairDay/">eloaguilgel.github.io/HairDay</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Webpack-5-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
   <img src="https://img.shields.io/badge/Babel-7-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel">
@@ -82,7 +86,7 @@ Tudo isso feito com **JavaScript puro (Vanilla JS)**, organizado em módulos, em
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/EloaGuilgel/hairday.git
+git clone https://github.com/EloaGuilgel/HairDay.git
 cd hairday
 
 # 2. Instale as dependências
